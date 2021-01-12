@@ -1,0 +1,119 @@
+.particles {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: -1;
+}
+
+.title {
+    padding-right: 50px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .teamB {
+    margin-top: 40px;
+  }
+
+  .grid-item {
+    padding-left: 50px !important;
+    padding-right: 50px !important;
+  }
+
+  .grid-item-bottom {
+    padding-top: 24px !important;
+  }
+
+  .grid-item-last {
+    padding-bottom: 30px !important;
+    padding-top: 20px !important;
+    justify-content: end !important;
+  }
+
+  .img-wrapper {
+    background: white;
+    width: 350px;
+    border-radius: 3px;
+  }
+
+  .img-wrapper-ground {
+    width: 70% !important;
+    border-radius: 3px;
+    background: white;
+    /* margin: 30px !important; */
+  }
+
+  .img-wrapper-pitch {
+    width: 80% !important;
+    border-radius: 3px;
+    background: #baddff;
+    /* margin: 30px !important; */
+  }
+
+  .score-wrapper {
+    margin-left: 30px !important;
+    color: white !important;
+  }
+
+  .ground-wrapper {
+    align-content: center;
+    align-items: center;
+  }
+
+  
+
+  .signin {
+    background: #05386B !important;
+  }
+
+  .score-wrapper {
+    background: #05386B !important;
+    opacity: 0.8;
+  }
+
+  .buttons-wrapper {
+    background: #baddff !important;
+    opacity: 0.5;
+    color: #05386B;
+  }
+
+  .delete-wrapper {
+    padding-right: 50px;
+    padding-left: 50px;
+    margin-bottom: 50px;
+  }
+
+  .done-wrapper {
+    padding-right: 50px;
+    padding-left: 50px;
+    margin-top: 50px;
+  }
+
+  .toss-wrapper {
+    height: 100% !important;
+    width: 100% !important;
+    padding-right: 30px !important;
+    padding-left: 30px !important;
+  }
+
+  .toss-content-wrapper {
+    margin-right: 30px !important;
+    margin-left: 30px !important;
+  }
+
+  .continue-wrapper {
+    margin-top: 30px !important;
+    margin-bottom: 30px !important;
+  }
+
+  .extras-wrapper {
+    padding-top: 20px !important;
+    padding-bottom: 50px !important;
+    border-radius: 7px;
+  }
+
+  .MuiNativeSelect-outlined.MuiNativeSelect-outlined {
+    width: 120px !important;
+  }

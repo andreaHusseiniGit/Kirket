@@ -1,0 +1,25 @@
+/* .scroll {
+    background: #baddff;
+    color: #05386B;
+    border-radius: 7px;
+    padding-bottom: 20px;
+    padding-top: 5px;
+    overflow: scroll;
+    border: 1px solid #05386B;
+    height: 415px;
+    width: 600px;
+  
+  } */
+
+  .scrollB {
+    margin-bottom: 30px;
+  }
+
+  .scroll {
+    background: #baddff;
+    opacity: 0.8 !important;
+    overflow: scroll;
+    height: 400px;
+    padding-top: 30px !important;
+  
+  }

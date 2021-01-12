@@ -1,0 +1,35 @@
+.myCard:hover {
+    border: 2px solid #05386B;
+    color: #05386B;
+}
+
+.myCard {
+    border: 1px solid #05386B;
+    color: #05386B;
+}
+
+.myCard.active:hover {
+    border: 3px solid #05386B;
+    background-color: #baddff;
+    color: #05386B;
+}
+
+.myCard.active {
+    border: 3px solid #05386B;
+    background-color: #baddff;
+    color: #05386B;
+}
+
+.myCard.active .cardName {
+    color: #05386B;
+}
+
+.card-name {
+    font-size: 20px;
+    color: #05386B;
+  }
+
+.card-icon {
+    width: 100px;
+    padding-top: 5px;
+}

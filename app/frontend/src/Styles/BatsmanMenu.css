@@ -1,0 +1,18 @@
+.MuiOutlinedInput-root {
+    width: 250px !important;
+    border-color: white !important;
+    font-size: 20px !important;
+}
+
+.menu-inputs-main {
+    border-color: white !important;
+    width: 100% !important;
+}
+
+.menu-inputs {
+    margin-bottom: 30px !important;
+    margin-right: 30px !important;
+    margin-left: 30px !important;
+    border-color: white !important;
+    width: 150px !important;
+}

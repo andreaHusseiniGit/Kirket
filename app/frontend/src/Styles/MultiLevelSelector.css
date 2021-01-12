@@ -1,0 +1,29 @@
+/* menu when closed */
+
+.MuiSelect-select.MuiSelect-select {
+    width: 100% !important;
+}
+
+.MuiMenu-list {
+    background: #05386B !important;
+    color: white !important;
+}
+
+.MuiListItem-button {
+    font-size: 14px !important;
+}
+
+.MuiListItem-button:first-child {
+    color: #ffe203 !important;
+    font-size: 16px !important;
+}
+
+.MuiListSubheader-sticky {
+    color: #ffe203 !important;
+    font-size: 16px !important;
+}
+
+
+
+
+

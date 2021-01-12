@@ -1,0 +1,35 @@
+.pitch-item {
+    width: 100% !important;
+    height: 50px !important;
+    margin: 0 !important;
+    /* margin-top: 5px !important;
+    margin-bottom: 5px !important; */
+    background: transparent;
+    color: white;
+    border-radius: 7px;
+    border: 2px solid #baddff;
+    background: #05386B !important;
+    text-align: 'center';
+
+}
+
+.pitch-grid {
+    width: 100% !important;
+}
+
+.pitch-row {
+    height: 50px !important;
+    width: 60px !important;
+    color: white;
+    border-radius: 7px;
+    border: 2px solid #baddff;
+    background: #05386B !important;
+    text-align: 'center';
+    margin-top: 10px !important;
+    margin-right: 0px;
+    margin-left: 0px;;
+}
+
+.stump-text {
+    text-align: 'center' !important;
+}

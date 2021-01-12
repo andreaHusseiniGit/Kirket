@@ -1,0 +1,253 @@
+.buttonwrap {
+    padding-top: 45px;
+  }
+
+.button {
+    color: #ffffff !important;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border: 2px solid #05386B;
+    border-radius: 7px;
+    background: #05386B !important;
+    opacity: 0.8;
+    /* vertical-align: right; */
+  }
+  
+
+
+  .button-primary {
+    background: transparent;
+    color: white;
+    border: 3px solid white;
+  }
+  
+  .button-primary:hover {
+    border: 2px solid rgba(255, 226, 3);
+  }
+
+  .button-primary.active {
+    border: 2px solid rgba(255, 226, 3);
+  }
+  
+
+  .button-primary.active :hover{
+    border: 2px solid rgba(255, 226, 3);
+  }
+
+
+
+
+  .button-secondary {
+    background-color: transparent;
+    color: white;
+    margin-left: 20px;
+    border: 3px solid white;
+  }
+  
+  .button-secondary:hover{
+    border: 2px solid #baddff;
+  }
+
+  .button-secondary.active {
+    border: 2px solid #baddff !important;
+  }
+  
+  .button-secondary.active:hover {
+    border: 2px solid #baddff; 
+  }
+
+
+  
+  .button-toss {
+    background-color: transparent;
+    color: white;
+    margin-left: 20px;
+    border: 3px solid white;
+  }
+
+  .button-toss:hover{
+    border: 3px solid #baddff;
+    background-color: #baddff !important;
+    color: #05386B;
+  }
+
+  .button-toss.active {
+    border: 3px solid #baddff;
+    background-color: #baddff;
+    color: #05386B;
+  }
+  
+  .button-toss.active:hover {
+    border: 3px solid #baddff;
+    background-color: #baddff;
+    color: #05386B;
+  }
+
+
+  .button-close {
+    padding: 2px;
+    height: 35px;
+    width: 35px;
+    /* border-radius: 50%; */
+    font-size: 20px;
+    float: left;
+    margin-left: 5px;
+    /* margin-top: 3px; */
+    text-align: center;
+    /* border: 2px solid white; */
+    background: transparent;
+    color: white;
+  }
+  
+  .button-close:hover {
+    /* color: rgba(255, 226, 3); */
+    /* border: 2px solid rgba(255, 226, 3); */
+    font-weight: bold;
+    color: rgba(255, 226, 3) !important;
+  }
+
+
+
+  .button-popup {
+    margin-top: 20px !important;
+  }
+
+  .button-popup:first-child {
+    margin-right: 15px;
+  }
+
+
+
+  .disabled {
+    border: 2px solid #05386B !important;
+    color: white;
+  }
+
+
+
+.button-grid {
+  font-size: 30px !important;
+  width: 100% !important;
+  height: 100px !important;
+  margin: 0 !important;
+  background: transparent;
+  color: white;
+  border: 3px solid white;
+  opacity: 100%;
+}
+
+.button-grid:hover {
+  width: 100% !important;
+  margin: 0 !important;
+  border: 2px solid rgba(255, 226, 3) !important;
+}
+
+.button-grid.active {
+  width: 100% !important;
+  margin: 0 !important;
+  border: 2px solid rgba(255, 226, 3) !important;
+}
+
+.button-grid.active:hover {
+  width: 100% !important;
+  margin: 0 !important;
+  border: 2px solid rgba(255, 226, 3) !important;
+}
+
+
+.button-strike {
+  background: transparent;
+  color: white;
+  border: 3px solid white;
+}
+
+.button-strike:hover {
+}
+  
+.button-strike.active {
+  background: #baddff;
+  color: #05386B !important;
+  border: 2px solid #baddff;
+}
+
+.button-strike:hover {
+  background: #baddff !important;
+  color: #05386B !important;
+  border: 2px solid #baddff;
+}
+
+.button-strike.active {
+  background: #baddff !important;
+  color: #05386B !important;
+  border: 2px solid #baddff;
+}
+
+.button-strike.active:hover {
+  background: #baddff !important;
+  color: #05386B !important;
+  border: 2px solid #baddff;
+}
+
+.button-rotate {
+  background: white !important;
+  color: #05386B !important;
+  border: 2px solid #05386B !important;
+  margin-left: 10px !important;
+  margin-bottom: 10px !important;
+}
+
+.button-cancel {
+  margin-left: 10px !important;
+}
+
+.button-pitch {
+  font-size: 30px !important;
+  width: 10px !important;
+  height: 50px !important;
+  margin: 0 !important;
+  color: white;
+  border: none;
+  background: #05386B !important;
+}
+
+.button-pitch.active {
+  border: 3px solid rgba(255, 226, 3) !important;
+}
+
+.button-pitch:hover {
+  border: 3px solid rgba(255, 226, 3) !important;
+}
+
+.button-pitch.active:hover {
+  border: 3px solid rgba(255, 226, 3) !important;
+}
+
+.button-confirm {
+  width: 100% !important;
+  opacity: 100%;
+  font-size: 14px !important;
+  border: 2px solid white !important;
+  margin-bottom: 10px !important;
+}
+
+.button-confirm:hover {
+  border: 2px solid rgba(255, 226, 3) !important;
+  
+}
+
+.button-striker {
+  width: 100% !important;
+}
+
+.button-clear {
+  margin-top: 10px !important;
+  border: 1px solid #baddff !important;
+}
+
+.button-clear:hover{
+  background: #baddff !important;
+  color: #05386B !important;
+  border: 1px solid #05386B !important;
+}

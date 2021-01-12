@@ -1,0 +1,121 @@
+.popup {
+    width: 550px;
+    height: 500px;
+    background-color: #05386B;
+    border: 1px solid #05386B;
+    border-radius: 7px;
+    opacity: 90%;
+  }
+
+  /* .input {
+    background-color: #EDF5E1;
+    color: #05386B;
+  } */
+  
+  .popup-input {
+    border: 2px solid  #05386B;
+    background-color: white;
+    color: #05386B;
+    font-size: 26px;
+    border-radius: 7px;
+    padding: 5px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+  }
+  
+  .input-player {
+    border: 1px solid #05386B;
+    border-radius: 7px;
+    padding: 3px;
+    margin-bottom: 7px;
+    margin-right: 10px;
+    margin-left: 15px;
+  }
+  
+  .popup-scroll {
+    width: 550px !important;
+    height: 600px !important;
+    background: #05386B !important;
+    opacity: 90% !important;
+  }
+
+  .popup-scroll-toss {
+    width: 400px !important;
+    height: 550px !important;
+    background: #05386B !important;
+    opacity: 90% !important;
+  }
+
+  .popup-scroll-choice {
+    width: 350px !important;
+    height: 550px !important;
+    background: #05386B !important;
+    opacity: 90% !important;
+    padding-right: 50px !important;
+  }
+  
+  
+  .popup-label {
+    margin-right: 20px;
+    margin-left: 5px;
+  }
+
+  .extraPlayer {
+    visibility: hidden;
+  }
+  
+  .extraPlayer.active {
+    visibility: visible;
+  }
+  
+  .popup-content {
+    background: transparent !important;
+    border: 1px solid transparent !important;
+  }
+
+
+  .wrong-popup {
+    width: 300px !important;
+    height: 200px !important;
+    justify-content: center !important;
+    padding-left: 10px !important;
+  }
+
+  .wrong-popup > * {
+    margin-left: auto !important;
+    margin-right: auto !important;
+    margin-top: 30px;
+  }
+
+  .wrong-popup > h3 {
+    font-size: 30px !important;
+    text-align: center !important;
+  }
+
+  .popup-delete {
+    width: 250px !important;
+    height: 120px !important;
+    background: #05386B !important;
+    opacity: 90% !important;
+  }
+
+  .choice {
+    margin-top: 15px !important;
+    font-size: 20px !important;
+  }
+
+  .toss {
+    margin-top: 0px !important;
+    margin-bottom: 15px !important;
+    font-size: 24px !important;
+  }
+
+  .overs-input {
+    width: 100px !important;
+  }
+
+  .popup-title {
+    font-size: 24px !important;
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+  }

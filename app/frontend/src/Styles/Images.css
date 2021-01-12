@@ -1,0 +1,23 @@
+.img-pitch {
+    width: 330px;
+}
+
+.img-ground {
+    width: 500px;
+}
+
+.img-pointer{
+    width: 20px;
+    margin-left: -10px;
+    height: 20px;
+    margin-top: -10px;
+}
+
+.img-striker {
+    width: 55px;
+    visibility: hidden !important;
+}
+
+.img-striker.active {
+    visibility: visible !important;
+}

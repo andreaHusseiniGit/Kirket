@@ -1,0 +1,7 @@
+.register {
+    visibility: hidden;
+}
+
+.register.active {
+    visibility: visible;
+}
